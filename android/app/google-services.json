@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6683490871",
+    "project_id": "first-firebase-may26",
+    "storage_bucket": "first-firebase-may26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6683490871:android:e14af67fae11c4ab8a9db2",
+        "android_client_info": {
+          "package_name": "com.firebase.classico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBxcCGJjCQsJJePmklelwLW4afZOaEjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
